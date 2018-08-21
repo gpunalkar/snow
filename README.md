@@ -1,2 +1,2 @@
-# atosSNOW
-Atos ServiceNow Training
+# SNOW
+ServiceNow Training
